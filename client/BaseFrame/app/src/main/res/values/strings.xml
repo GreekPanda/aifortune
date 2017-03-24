@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">BaseFrame</string>
+    <string name="skip">skip</string>
+    <string name="next">next</string>
+    <string name="start">start</string>
+    <string name="slide1_title">Slide 1 text</string>
+    <string name="slide2_title">Slide 2 text</string>
+    <string name="slide3_title">Slide 3 text</string>
 </resources>
